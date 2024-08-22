@@ -1,6 +1,4 @@
-### Meow
 
-<img src="https://d3frb2mbny706b.cloudfront.net/a37h" width="600">
 
 <!--
 **a37h/a37h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
